@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BachelorFrontEnd", "BachelorFrontEnd\BachelorFrontEnd.csproj", "{AEA27BA2-755C-4A6D-B1B6-ADFCA15FA78B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEndTest", "FrontEndTest\FrontEndTest.csproj", "{F44473E9-5B71-4832-8AD7-ECCBC149E502}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEnd.Test.Unit", "FrontEndTest\FrontEnd.Test.Unit.csproj", "{F44473E9-5B71-4832-8AD7-ECCBC149E502}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
