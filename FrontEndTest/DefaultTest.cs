@@ -8,6 +8,7 @@ using NUnit.Framework;
 namespace FrontEndTest
 {
     //Capperdapper laver git-test
+    //KK laver en sejere Git-test
     [TestFixture]
     public class DefaultTest
     {
